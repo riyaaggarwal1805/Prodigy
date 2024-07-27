@@ -1,0 +1,15 @@
+<div class="product-item">
+    <h2 class="product-name">Product 1</h2>
+    <span class="product-price">$19.99</span>
+    <div class="product-rating" data-rating="4.5"></div>
+</div>
+<div class="product-item">
+    <h2 class="product-name">Product 2</h2>
+    <span class="product-price">$29.99</span>
+    <div class="product-rating" data-rating="4.0"></div>
+</div>
+<div class="product-item">
+    <h2 class="product-name">Product 3</h2>
+    <span class="product-price">$39.99</span>
+    <div class="product-rating" data-rating="3.5"></div>
+</div>
